@@ -1,8 +1,8 @@
-const nameGirl = 'Lê Mai';
+const nameGirl = 'Giang Trà';
 const giftUrl = '';
 const eventName = 'Chúc Mừng 8/3';
-const titleCard = 'Gửi Tặng Vợ Iu ';
-const contentCard = 'Chúc mẹ Kem 8/3 vui vẻ nhá và nụ cười luôn nở trên môi em bởi em cười đẹp hơn tất cả bông hoa ngày mùng 8/3 này ';
+const titleCard = 'Gửi Tặng Giang Trà Xinh Gái';
+const contentCard = 'Chúc em có ngày mùng 8/3 vui vẻ nhá và em hãy luôn giữ nụ cười của mình trên môi bởi nụ cười của em đẹp hơn tất cả những bông hoa ngày mùng 8/3 này ';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
